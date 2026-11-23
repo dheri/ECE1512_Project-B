@@ -1,0 +1,23 @@
+{
+  "train_dir": "/work/assignments_n_projects/project_b/ECE1512_Student_Project/data_1um_bicubic/train",
+  "val_dir": "/work/assignments_n_projects/project_b/ECE1512_Student_Project/data_1um_bicubic/val",
+  "test_dir": "/work/assignments_n_projects/project_b/ECE1512_Student_Project/data_1um_bicubic/test",
+  "epochs": 3,
+  "batch_size": 16,
+  "patch_size": 256,
+  "eval_patch_size": 256,
+  "channels": 32,
+  "depth": 5,
+  "qualities": [
+    10,
+    20,
+    30,
+    40,
+    50
+  ],
+  "lr": 0.0002,
+  "num_workers": 0,
+  "seed": 42,
+  "lambda_freq": 0.0,
+  "out_dir": "/work/assignments_n_projects/project_b/ECE1512_Student_Project/jpeg_restoration_notebook/runs/full/run-0qpi8d8h/spatial_only"
+}
