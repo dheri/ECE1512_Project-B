@@ -1,0 +1,6 @@
+{
+  "device": "cpu",
+  "training_seconds": 2111.3911372171715,
+  "parameter_count": 195987,
+  "peak_allocated_gpu_mib": null
+}
