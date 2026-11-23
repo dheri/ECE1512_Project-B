@@ -1,0 +1,85 @@
+{
+  "metrics": [
+    {
+      "method": "DNN",
+      "images": 256,
+      "actual_bpp": 1.595855712890625,
+      "payload_bpp": 1.332183837890625,
+      "mean_psnr": 31.51428297162056,
+      "mean_ssim": 0.9134086836129427,
+      "estimated_bpp": 1.9417182793840766
+    },
+    {
+      "method": "JPEG Q1",
+      "images": 256,
+      "actual_bpp": 1.5012893676757812,
+      "payload_bpp": null,
+      "mean_psnr": 20.863666750490665,
+      "mean_ssim": 0.5370078585110605,
+      "estimated_bpp": null
+    },
+    {
+      "method": "JPEG Q10",
+      "images": 256,
+      "actual_bpp": 1.7646026611328125,
+      "payload_bpp": null,
+      "mean_psnr": 26.534820653498173,
+      "mean_ssim": 0.7574358503334224,
+      "estimated_bpp": null
+    },
+    {
+      "method": "JPEG Q20",
+      "images": 256,
+      "actual_bpp": 2.06036376953125,
+      "payload_bpp": null,
+      "mean_psnr": 29.12409435212612,
+      "mean_ssim": 0.8287518778815866,
+      "estimated_bpp": null
+    },
+    {
+      "method": "JPEG Q30",
+      "images": 256,
+      "actual_bpp": 2.3137588500976562,
+      "payload_bpp": null,
+      "mean_psnr": 30.531404323875904,
+      "mean_ssim": 0.8616291692014784,
+      "estimated_bpp": null
+    },
+    {
+      "method": "JPEG Q50",
+      "images": 256,
+      "actual_bpp": 2.7251129150390625,
+      "payload_bpp": null,
+      "mean_psnr": 32.163622722029686,
+      "mean_ssim": 0.8940082672052085,
+      "estimated_bpp": null
+    },
+    {
+      "method": "JPEG Q70",
+      "images": 256,
+      "actual_bpp": 3.2633514404296875,
+      "payload_bpp": null,
+      "mean_psnr": 33.79002182930708,
+      "mean_ssim": 0.9187114420346916,
+      "estimated_bpp": null
+    },
+    {
+      "method": "JPEG Q90",
+      "images": 256,
+      "actual_bpp": 5.0865936279296875,
+      "payload_bpp": null,
+      "mean_psnr": 37.18455000221729,
+      "mean_ssim": 0.9565776251256466,
+      "estimated_bpp": null
+    }
+  ],
+  "used_codewords": 231,
+  "dnn_coding_modes": {
+    "zlib": 256,
+    "arithmetic-left": 0,
+    "arithmetic-up": 0
+  },
+  "codebook_size": 256,
+  "jpeg_subsampling": 0,
+  "rate_definition": "Complete per-image file bytes for both codecs; shared model excluded"
+}

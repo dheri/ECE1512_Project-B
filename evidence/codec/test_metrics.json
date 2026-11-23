@@ -1,0 +1,8 @@
+{
+  "checkpoint": "/work/assignments_n_projects/project_b/ECE1512_Student_Project/dnn_compression_notebook/runs/full/codec_full_20261122_005457_764732/best.pt",
+  "mse": 0.0008899929671315476,
+  "psnr": 31.51429271697998,
+  "ssim": 0.9134090095758438,
+  "estimated_bpp": 1.9417185634374619,
+  "loss": 0.001084164823475294
+}

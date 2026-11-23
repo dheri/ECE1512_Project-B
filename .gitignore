@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+/data_1um_bicubic/
+*.zip
+runs/
+/reproduced_ablations/
+/reproduced_restoration/
+/rebuilt/
+/tmp/
+/outputs/
+node_modules/
+*_Pilot.ipynb
